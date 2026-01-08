@@ -1,7 +1,0 @@
-{
-  "devices": {
-    "light": false,
-    "fan": false,
-    "socket": false
-  }
-}
